@@ -29,12 +29,17 @@ flutter_native_splash:
   android: true
   ios: true
 
+flutter_app_name:
+  name: "পোকা মাকড় বিশারদ"
+
+
 flutter_icons:
   android: "launcher_icon"
   ios: true
   image_path: "assets/icons/logo.png"
 
 dev_dependencies:
+  flutter_app_name: ^0.1.0
   flutter_test:
     sdk: flutter
 

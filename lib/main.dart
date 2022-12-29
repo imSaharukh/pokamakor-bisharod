@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Animal Classification',
+      title: 'পোকা মাকড় বিশারদ',
       home: Home(),
       debugShowCheckedModeBanner: false,
     );
