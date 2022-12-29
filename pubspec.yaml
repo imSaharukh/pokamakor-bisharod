@@ -21,6 +21,7 @@ dependencies:
   # For app logo and Splash Screen
   flutter_launcher_icons: ^0.9.1
   flutter_native_splash: ^1.2.1
+  url_launcher: ^6.1.7
 
 flutter_native_splash:
   color: "#E0F3FD"
